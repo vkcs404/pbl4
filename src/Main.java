@@ -62,6 +62,8 @@ public class Main {
         try {
             BufferedReader leitor = new BufferedReader(new FileReader(nomeArquivo));
 
+            leitor.readLine();
+
             String linha;
             int indice = 0;
 
@@ -102,6 +104,8 @@ public class Main {
 
         try {
             BufferedReader leitor = new BufferedReader(new FileReader(nomeArquivo));
+
+            leitor.readLine();
 
             String linha;
 
