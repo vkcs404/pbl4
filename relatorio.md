@@ -8,8 +8,8 @@
 
 ## 1. Introdução
 
-Este relatório apresenta a análise de eficiência dos algoritmos de ordenação **Bubble Sort**, **Insertion Sort** e **Quick Sort**. 
-O objetivo principal é avaliar o comportamento de cada algoritmo ao processar conjuntos de dados de diferentes tamanhos (100, 1.000 e 10.000 elementos) sob três condições de ordenação distintas: dados aleatórios, dados previamente ordenados de forma crescente e dados ordenados de forma decrescente[cite: 14, 15, 16]. Os tempos de execução foram medidos via `System.nanoTime()` e convertidos para milissegundos ($ms$) para fins de análise estruturada.
+Este relatório apresenta a análise de eficiência dos algoritmos de ordenação **Bubble Sort**, **Insertion Sort** e **Quick Sort**.
+O objetivo principal é avaliar o comportamento de cada algoritmo ao processar conjuntos de dados de diferentes tamanhos (100, 1.000 e 10.000 elementos) sob três condições de ordenação distintas: dados aleatórios, dados previamente ordenados de forma crescente e dados ordenados de forma decrescente. Os tempos de execução foram medidos via `System.nanoTime()` e convertidos para milissegundos ($ms$) para fins de análise estruturada.
 
 ---
 
